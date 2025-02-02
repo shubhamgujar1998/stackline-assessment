@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+#root {
+  background-color: #d3d3d363;
+}
+
+.custom-y-padding-bottom .MuiChartsAxis-directionY .MuiChartsAxis-label {
+  transform: translateX(-60px) !important;
+}
+
+.MuiContainer-root .MuiContainer-maxWidthLg .custom-paddingRight-none {
+  padding-right: 0 !important;
+}
