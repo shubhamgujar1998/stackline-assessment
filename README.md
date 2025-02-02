@@ -14,7 +14,7 @@ Note: To show the use-case of Skeleton loading for users with fast internet spee
 
 ## Deployment
 
-- I have deployed the assessment to Github Page [Github Page]() with project repository available on [Stackline Assessment]().
+- I have deployed the assessment to Github Page [Github Page](https://shubhamgujar1998.github.io/stackline-assessment) with project repository available on [Stackline Assessment](https://github.com/shubhamgujar1998/stackline-assessment).
 
 ## Vite installation boilerplate
 
